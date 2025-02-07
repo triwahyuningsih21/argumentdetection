@@ -4,7 +4,7 @@ This repository contains the implementation of a Named Entity Recognition (NER) 
 
 ## **Features**
 
-* Dataset: Feedback Prize \- Evaluating Student Writing (Kaggle)
+* Dataset: Feedback Prize \- Evaluating Student Writing (Kaggle) https://www.kaggle.com/competitions/feedback-prize-effectiveness/data
 
 * Model: google/bigbird-roberta-base (Transformer-based)
 
