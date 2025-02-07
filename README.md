@@ -1,6 +1,6 @@
 # **Named Entity Recognition (NER) Model for Argumentative Essays**
 
-This repository contains the implementation of a Named Entity Recognition (NER) model for analyzing argumentative essays using transformer-based architectures. The goal of this project is to identify entities related to argument structure in student essays to evaluate the quality of arguments.
+This repository contains the implementation of a Named Entity Recognition (NER) model for analyzing argumentative essays using transformer-based architectures. The goal of this project is to identify entities related to argument structure in student essays to evaluate the quality of arguments. 10.5281/zenodo.14829503
 
 ## **Features**
 
